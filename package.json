@@ -14,7 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/mlenkeit/express-api-token-auth.git"
   },
-  "keywords": [],
+  "keywords": [
+    "express",
+    "middleware",
+    "token",
+    "auth",
+    "authentication",
+    "api",
+    "secure"
+  ],
   "author": "Maximilian Lenkeit",
   "license": "MIT",
   "bugs": {
