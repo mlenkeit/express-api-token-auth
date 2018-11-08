@@ -1,4 +1,4 @@
-# express-api-token-auth
+# express-api-token-auth [![Build Status](https://travis-ci.org/mlenkeit/express-api-token-auth.svg?branch=master)](https://travis-ci.org/mlenkeit/express-api-token-auth)
 
 Secure express with an API token
 
